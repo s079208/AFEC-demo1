@@ -2,4 +2,4 @@
 tittle : "hallo wereld"
 ---
 
-#hallo wereld
+# {{tittle}}
